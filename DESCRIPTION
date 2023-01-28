@@ -1,0 +1,18 @@
+Package: AWENSVM
+Type: Package
+Title: Eastion of health effect
+Version: 0.1.0
+Author: zhuguiming
+Maintainer: zhuguiming  <guimingzhu@163.com>
+Description: This package is easting health effect.
+License: GPL-3
+Encoding: UTF-8
+LazyData: False
+RoxygenNote: 7.2.3
+Imports: 
+    boot,
+    e1071,
+    mda,
+    mgcv,
+    splines,
+    splines2

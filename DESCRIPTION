@@ -9,7 +9,7 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: False
 RoxygenNote: 7.2.3
-Imports: 
+Depends: 
     boot,
     e1071,
     mda,
